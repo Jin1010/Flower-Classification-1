@@ -1,2 +1,3 @@
 # Flower-Classification-1
-from：<https://www.kaggle.com/vikashvverma/flowers-classification>
+code from:<https://www.kaggle.com/vikashvverma/flowers-classification>  
+dataset from:<https://www.kaggle.com/alxmamaev/flowers-recognition>
